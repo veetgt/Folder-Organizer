@@ -11,7 +11,7 @@ This project was built to showcase practical automation and file manipulation sk
 ## ✨ Features
 
 - **Dual Operation Modes:**
-    - **`organizer.py` (Manual Mode):** A script that runs once to perform a complete cleanup of an existing directory.
+    - **`button.py` (Manual Mode):** A script that runs once to perform a complete cleanup of an existing directory.
     - `watcher.py` (Watcher Mode): A service that runs in the background, monitoring a directory and organizing files the moment they are created.
 - **Intelligent Audio Sorting:** Uses file metadata to differentiate between short **Sound Effects (SFX)** and long **Music** files, instead of relying only on extensions.
 - **Keyword-Based Video Sorting:** Identifies and separates "Green Screen" videos into a dedicated folder by checking their filenames.
