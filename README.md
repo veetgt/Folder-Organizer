@@ -39,8 +39,8 @@ This project was built to showcase practical automation and file manipulation sk
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/veetgt/VGT-Organizer.git](https://github.com/veetgt/VGT-Organizer.git)
-    cd VGT-Organizer
+    git clone [https://github.com/veetgt/Folder-Organizer.git](https://github.com/veetgt/Folder-Organizer.git)
+    cd Folder-Organizer
     ```
 2.  **Create and activate a virtual environment:**
     ```bash
